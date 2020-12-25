@@ -8,4 +8,5 @@ The table contains 1795 data points, with 3 important columns for analysis: Comp
 - The highest rating scrapped was 4.  
 ![Histogram of companies and their corresponding ratings](https://github.com/emmanguyen102/Scraping-Web-with-Python/blob/master/Histogram%20of%20chocolate%20companies%20and%20ratings.png)
 - The cocoa does have influence on ratings. 
+
 ![Scatterplot of ratings and cocoa percentage](https://github.com/emmanguyen102/Scraping-Web-with-Python/blob/master/Scatterplot%20of%20chocolate%20ratings%20and%20cocoa%20percentage.png)
